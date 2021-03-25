@@ -1,22 +1,17 @@
 {
-  "name": "react-hash-router",
+  "name": "react-hash-router-v2",
   "version": "1.0.0",
-  "description": "A basic hash router with support for nested routes. <12kb.",
+  "description": "A basic hash router with support for nested routes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error!: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cluxton/react-hash-router.git"
+    "url": "https://github.com/ElectricEra/react-hash-router.git"
   },
-  "homepage": "https://github.com/cluxton/react-hash-router/blob/master/README.md",
-  "author": "Charles Luxton",
-  "maintainers": [
-    {
-      "name": "Yuriy Pankiv"
-    }
-  ],
+  "homepage": "https://github.com/ElectricEra/react-hash-router/blob/master/README.md",
+  "author": "Yuriy Pankiv",
   "license": "MIT",
   "dependencies": {
     "create-react-class": "^15.7.0",
