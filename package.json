@@ -15,10 +15,11 @@
   "maintainers": [
     {
       "name": "Yuriy Pankiv"
-    } 
+    }
   ],
   "license": "MIT",
   "dependencies": {
+    "create-react-class": "^15.7.0",
     "query-string": "^3.0.0"
   },
   "peerDependencies": {
